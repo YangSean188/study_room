@@ -22,4 +22,11 @@
 .complaint_home{
 	margin-top: 20px;
 }
+.tanchuang1{
+	background-color: azure;
+	width: 200px;
+	height: 530px;
+	border-radius: 10px;
+	top: 10%;
+}
 

@@ -779,8 +779,8 @@ function populateParameters(result) {
     appVersion: "1.0.0",
     appVersionCode: "100",
     appLanguage: getAppLanguage(hostLanguage),
-    uniCompileVersion: "3.7.1",
-    uniRuntimeVersion: "3.7.1",
+    uniCompileVersion: "3.7.3",
+    uniRuntimeVersion: "3.7.3",
     uniPlatform: undefined || "mp-weixin",
     deviceBrand: deviceBrand,
     deviceModel: model,
@@ -9439,9 +9439,9 @@ internalMixin(Vue);
 
 /***/ }),
 /* 26 */
-/*!******************************************************!*\
-  !*** D:/Desktop/study/study_room/fontend/pages.json ***!
-  \******************************************************/
+/*!***************************************************!*\
+  !*** D:/shixizuoye/study_room/fontend/pages.json ***!
+  \***************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -10027,9 +10027,9 @@ module.exports = _asyncToGenerator, module.exports.__esModule = true, module.exp
 
 /***/ }),
 /* 104 */
-/*!**************************************************************************************************!*\
-  !*** D:/Desktop/study/study_room/fontend/uni_modules/uni-forms/components/uni-forms/validate.js ***!
-  \**************************************************************************************************/
+/*!***********************************************************************************************!*\
+  !*** D:/shixizuoye/study_room/fontend/uni_modules/uni-forms/components/uni-forms/validate.js ***!
+  \***********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -10797,9 +10797,9 @@ module.exports = _getPrototypeOf, module.exports.__esModule = true, module.expor
 
 /***/ }),
 /* 109 */
-/*!***********************************************************************************************!*\
-  !*** D:/Desktop/study/study_room/fontend/uni_modules/uni-forms/components/uni-forms/utils.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** D:/shixizuoye/study_room/fontend/uni_modules/uni-forms/components/uni-forms/utils.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -11153,9 +11153,9 @@ exports.isEqual = isEqual;
 /* 129 */,
 /* 130 */,
 /* 131 */
-/*!***********************************************************************************************!*\
-  !*** D:/Desktop/study/study_room/fontend/uni_modules/uni-icons/components/uni-icons/icons.js ***!
-  \***********************************************************************************************/
+/*!********************************************************************************************!*\
+  !*** D:/shixizuoye/study_room/fontend/uni_modules/uni-icons/components/uni-icons/icons.js ***!
+  \********************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12188,9 +12188,9 @@ exports.default = _default;
 /* 144 */,
 /* 145 */,
 /* 146 */
-/*!*******************************************************************************************************************!*\
-  !*** D:/Desktop/study/study_room/fontend/uni_modules/uni-transition/components/uni-transition/createAnimation.js ***!
-  \*******************************************************************************************************************/
+/*!****************************************************************************************************************!*\
+  !*** D:/shixizuoye/study_room/fontend/uni_modules/uni-transition/components/uni-transition/createAnimation.js ***!
+  \****************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
